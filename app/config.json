@@ -1,11 +1,11 @@
 {
     "preparation": {
         "openCVCameraIndex": 0,
-        "frameSavingDelay": 10
+        "frameSavingDelay": 30
     },
     "rendering": {
-        "framesPerSecond": 60,
-        "resolution": [1920, 1080]
+        "framesPerSecond": 30,
+        "resolution": [1280, 720]
     },
     "frameDirectory": "#/frames",
     "ftp": {
