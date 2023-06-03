@@ -1,0 +1,20 @@
+{
+    "preparation": {
+        "openCVCameraIndex": 0,
+        "frameSavingDelay": 10
+    },
+    "rendering": {
+        "framesPerSecond": 60,
+        "resolution": [1920, 1080]
+    },
+    "frameDirectory": "#/frames",
+    "ftp": {
+        "enable": false,
+        "sftp": true,
+        "host": "localhost",
+        "port": 22,
+        "username": "root",
+        "password": "root",
+        "dir": "/frames"
+    }
+}
